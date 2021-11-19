@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 2,
+    "name" : "Calculator",
+    "version" : "1.0",
+    "description" : "Calculate Anywhere",
+    "browser_action" : {
+        "default_popup" : "cal.html",
+        "default_icon":"cal.png"
+    },
+    "icons":{
+        "128":"cal.png"
+    },
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

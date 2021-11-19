@@ -1,0 +1,26 @@
+.title{
+    margin-bottom: 10px;
+    text-align:center;
+    width: 222px;
+    color:rgb(255, 4, 66);
+    border: solid black 2px;
+    }
+
+    input[type="button"]
+    {
+    background-color:rgb(255, 4, 66);
+    color: white;
+    font-weight: bold;
+    border: solid black 2px;
+    width:100%
+    }
+
+    input[type="text"]
+    {
+    background-color:rgb(4, 1, 48);
+    font-weight: 600;
+    color: white;
+    border: solid rgb(4, 1, 48) 2px;
+    width:100%
+    }
+    
